@@ -1,2 +1,0 @@
-# resources.sigil.org
-# twellio
